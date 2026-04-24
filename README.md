@@ -1,6 +1,6 @@
 ****Project****
 
-git clone https://github.com/Shahzad-Nizamani/ecommerce-website.git
+git clone https://github.com/ecommerce-website.git
 
 cd ecommerce-website
 
